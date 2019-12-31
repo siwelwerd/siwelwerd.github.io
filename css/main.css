@@ -33,9 +33,15 @@ footer {
     font-size: .8em;
 }
 
-img {
-  width: 50%;
-  align: left;
+img{
+  width:320px;
+  float:left;
+  margin:0 10px 4px 0;
+}
+@media only screen and (max-width:420px){
+  img{
+    float: none;
+  }
 }
 
 ul.posts {
