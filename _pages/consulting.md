@@ -9,7 +9,7 @@ redirect_from:
 I am currently working as an independent consultant. Areas of expertise include math education, inquiry-based learning, Team-Based Learning, inclusive teaching, and alternative grading.  Some recent topics I have consulted on are:
 
 * Faculty development to support redesign of the Calculus sequence
-* Serving in an advisory capacity for NSF grants in education related areas
+* Serving in an advisory capacity for grants in education related areas
 * One-on-one consultations with faculty on implementing alternative grading in their course
 
 I also frequently give workshops/presentations on the aforementioned topics, most often in a faculty development context.  Recent workshops include:
