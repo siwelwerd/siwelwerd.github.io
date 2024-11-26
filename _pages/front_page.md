@@ -10,7 +10,7 @@ Some recent and upcoming projects I am involved with:
 - Networks, Language, and Change: Advancing textual analysis methodology in the context of cultural change in STEM, December 9--13, 2024.  A [Collaborate@ICERM](https://icerm.brown.edu/) workshop 
 - [The Grading Conference](https://thegradingconference.com/), June 11--13, 2025. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
 - [A social justice curriculum in mathematics: resources for future research](https://aimath.org/workshops/upcoming/socialjustice/), July 21--25, 2025. A weeklong workshop at the [American Institute of Mathematics](https://aimath.org)
-- Applications of Data Science and Mathematical Modeling to the Mathematical Sciences Community, December 8--12, 2025. A weeklong workshop at the [American Institute of Mathematics](https://aimath.org)
+- [MetaMath: Modeling the mathematical sciences community using mathematics, statistics, and data science](https://aimath.org/workshops/upcoming/metamath/), December 8--12, 2025. A weeklong workshop at the [American Institute of Mathematics](https://aimath.org)
 
 
 My work in the media:
