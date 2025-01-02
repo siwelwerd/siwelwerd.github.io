@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2024-01-01-Supporting-Instructors
 date: 2024-07-01
 venue: 'Proceedings of the 26th Anuual Conference on Research in Undergraduate Mathematics Education'
-citation: '<b>Lewis, D.</b>, Clontz, S., Parrish, C., Estis, J., & Chaudhury, S.R. (2024). Supporting instructors in implementing team-based inquiry learning. <em>Proceedings of the 26th Anuual Conference on Research in Undergraduate Mathematics Education</em>'
+citation: '<b>Lewis, D.</b>, Clontz, S., Parrish, C., Estis, J., & Chaudhury, S.R. (2024). Supporting instructors in implementing team-based inquiry learning. <em>Proceedings of the 26th Anuual Conference on Research in Undergraduate Mathematics Education</em>, 1152--1157.'
+paperurl: http://sigmaa.maa.org/rume/RUME26_Proceedings2024-letter.pdf#page=1179
 ---
 
 ### Abstract
