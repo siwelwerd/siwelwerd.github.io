@@ -17,6 +17,7 @@ I am currently working as an independent consultant. Areas of expertise include 
 I am available for keynote addresses at faculty development events and conferences,
 both in-person and virtually.  I strive to make my keynotes engaging and interactive,
 and focus on providing relevant takeaways that faculty can use in their courses.  
+
 For many events, I pair a keynote address with a smaller, hands-on workshop for interested
 faculty.
 
@@ -47,10 +48,11 @@ Grading Reform](https://centerforgradingreform.org).
 ### Grant Consulting
 I serve as a consultant on education-related grants in various capacities. This can include
 providing professional development programming, leading educational research components of
-a grant, evaluation services, or serving on an advisory board.  Some funded projects I have been involved with:
+a grant, evaluation services, grant writing assistance, or serving on an advisory board.  Some funded projects I have been involved with:
 - [Motivating Academics for Growth, Innovation, and Collaboration in STEM: a Regional Faculty Learning Community in South Alabama](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2417167)
 - [Transforming Lower Division Undergraduate Mathematics Through Team-Based Inquiry Learning](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2011807)
 - [Conference: The Grading Conference Higher Education STEM Focus](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2304776)
+- [Teaching Critical Thinking & Logical Reasoning in Undergraduate STEM Courses](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018270)
 - [HHMI Inclusive Excellence 3](https://www.hhmi.org/programs/inclusive-excellence-3)
 - [Pathway to Mathematics](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1135621)
 
