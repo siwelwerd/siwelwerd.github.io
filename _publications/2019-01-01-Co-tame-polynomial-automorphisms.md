@@ -5,6 +5,7 @@ permalink: /publication/2019-01-01-Co-tame-polynomial-automorphisms
 date: 2019-01-01
 venue: 'International Journal of Algebra and Computation'
 citation: 'E. Edo &amp; __D. Lewis__. Co-tame polynomial automorphisms, _International Journal of Algebra and Computation_, 29(5), (2019), 803-825.'
+paperurl: https://doi.org/10.1142/S0218196719500292
 ---
 
 ### Abstract

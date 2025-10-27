@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-Student-anxiety-in-standards-based-grading-in
 date: 2020-01-01
 venue: 'Innovative Higher Education'
 citation: '__D. Lewis__, Student anxiety in standards-based grading in mathematics courses. _Innovative Higher Education_, 45 (2020). 153-164.'
+paperurl: https://doi.org/10.1007/s10755-019-09489-3
 ---
 
 ### Abstract

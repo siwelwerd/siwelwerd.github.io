@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-Applying-a-standards-based-grading-framework-
 date: 2020-01-01
 venue: 'PRIMUS'
 citation: ' J. Elsinger &amp; __D. Lewis__, Applying a standards-based grading framework across lower level mathematics courses. _PRIMUS_, 30, no. 8 (2020), 885-907.'
+paperurl: https://doi.org/10.1080/10511970.2019.1674430
 ---
 
 ### Abstract

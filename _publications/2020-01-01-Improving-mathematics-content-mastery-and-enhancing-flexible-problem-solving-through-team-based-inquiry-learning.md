@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-Improving-mathematics-content-mastery-and-enh
 date: 2020-01-01
 venue: 'Teaching &amp; Learning Inquiry'
 citation: '__D. Lewis__ &amp; Julie Estis, Improving mathematics content mastery and enhancing flexible problem solving through team-based inquiry learning. _Teaching &amp; Learning Inquiry_, 7, no. 2 (2020), 165-183.'
+paperurl: https://doi.org/10.20343/teachlearninqu.8.2.11
 ---
 
 ### Abstract

@@ -3,8 +3,9 @@ title: "A unified approach to embeddings of a line in 3-space"
 collection: publications
 permalink: /publication/2022-01-01-A-unified-approach-to-embeddings-of-a-line-in-3-space
 date: 2022-01-01
-venue: 'Submitted'
+venue: 'Communications in Algebra'
 citation: '__D. Lewis__, A unified approach to embeddings of a line in 3-space. _Communications in Algebra_ __52__(1), 189--200 (2024). https://doi.org/10.1080/00927872.2023.2239344'
+paperurl: https://doi.org/10.1080/00927872.2023.2239344
 ---
 
 ### Abstract

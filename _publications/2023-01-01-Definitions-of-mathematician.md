@@ -5,6 +5,7 @@ permalink: /publication/2023-01-01-Definitions-of-mathematician
 date: 2023-07-01
 venue: 'Journal of Humanistic Mathematics'
 citation: 'Ron Buckmire, Carrie Diaz Eaton, Joseph E. Hibdon Jr., Katherine M. Kinnaird, __Drew Lewis__, Jessica Libertini, Omayra Ortega, Rachel Roca, and Andrés R. Vindas-Meléndez. On Definitions of "Mathematician" (2023). _Journal of Humanistic Mathematics_, 13(2), 8--38. https://doi.org/10.5642/jhummath.ZRUZ1463'
+paperurl: https://doi.org/10.5642/jhummath.ZRUZ1463
 ---
 
 ### Abstract

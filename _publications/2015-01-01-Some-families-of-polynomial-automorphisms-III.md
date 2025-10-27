@@ -5,6 +5,7 @@ permalink: /publication/2015-01-01-Some-families-of-polynomial-automorphisms-III
 date: 2015-01-01
 venue: 'Journal of Pure and Applied Algebra'
 citation: 'E. Edo &amp; __D. Lewis__, Some families of polynomial automorphisms III, _Journal of Pure and Applied Algebra_, 219, no. 4 (2015), 864-874.'
+paperurl: https://doi.org/10.1016/j.jpaa.2014.05.023
 ---
 
 ### Abstract

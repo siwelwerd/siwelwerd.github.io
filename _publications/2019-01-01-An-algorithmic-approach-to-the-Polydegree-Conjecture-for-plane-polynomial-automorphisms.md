@@ -5,6 +5,7 @@ permalink: /publication/2019-01-01-An-algorithmic-approach-to-the-Polydegree-Con
 date: 2019-01-01
 venue: 'Journal of Pure and Applied Algebra'
 citation: '__D. Lewis__,  K. Perry, &amp; A. Straub. An algorithmic approach to the Polydegree Conjecture for plane polynomial automorphisms, _Journal of Pure and Applied Algebra_, 223, no. 12 (2019), 5346-5359.'
+paperurl: https://doi.org/10.1016/j.jpaa.2019.04.002
 ---
 
 ### Abstract

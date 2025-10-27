@@ -5,6 +5,7 @@ permalink: /publication/2012-01-01-Further-Geometric-Restrictions-on-Jordan-Stru
 date: 2012-01-01
 venue: 'Asian-European Journal of Mathematics'
 citation: 'C. Johnson, **D. Lewis**, &amp; Y. Zhang. Further Geometric Restrictions on Jordan Structure in Matrix Factorization. *Asian-European Journal of Mathematics*, 5, no. 3 (2012) 1250036.'
+paperurl: https://doi.org/10.1142/S1793557112500180
 ---
 
 ### Abstract

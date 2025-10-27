@@ -5,6 +5,7 @@ permalink: /publication/2021-01-01-Fostering-Cognitive-Presence-Social-Presence-
 date: 2021-01-01
 venue: 'TechTrends'
 citation: ' C. Parrish,  S. Guffey,  D. Williams,  J. Estis,  __D. Lewis__, Fostering Cognitive Presence, Social Presence and Teaching Presence with Integrated Online Team-Based Learning. _TechTrends_ (2021).'
+paperurl: https://doi.org/10.1007/s11528-021-00598-5
 ---
 
 ### Abstract

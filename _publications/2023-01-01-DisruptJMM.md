@@ -5,6 +5,7 @@ permalink: /publication/2023-01-01-DisruptJMM
 date: 2023-07-01
 venue: 'Journal of Humanistic Mathematics'
 citation: 'Roca, R., Eaton, C. D., __Lewis, D.__, Hibdon, J. E., Jr., & Marshall, S. (2023). #DisruptJMM: Online Social Justice Advocacy and Community Building in Mathematics. _Journal of Humanistic Mathematics_, 13(2), 39--63.  https://doi.org/10.5642/jhummath.IQAC8746'
+paperurl: https://doi.org/10.5642/jhummath.IQAC8746
 ---
 
 ### Abstract

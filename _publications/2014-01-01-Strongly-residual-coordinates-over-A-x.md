@@ -5,6 +5,7 @@ permalink: /publication/2014-Strongly-residual-coordinates-over-A-x
 date: 2014-01-01
 venue: 'Automorphisms in birational and affine geometry'
 citation: '__D. Lewis__. Strongly Residual Coordinates over $A[x]$, _Automorphisms in birational and affine geometry_, Springer Proceedings in Mathematics and Statistics, 79 (2014), 407340.'
+paperurl: https://doi.org/10.1007/978-3-319-05681-4_23
 ---
 
 ### Abstract

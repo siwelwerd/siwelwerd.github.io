@@ -5,6 +5,7 @@ permalink: /publication/2022-01-01-Impacts-of-Standards-Based-Grading-on-Student
 date: 2022-01-01
 venue: 'Journal of Scholarship of Teaching and Learning'
 citation: '__D. Lewis__, Impacts of Standards-Based Grading on Students&apos; Mindset and Test Anxiety. _Journal of Scholarship of Teaching and Learning_ 22, no. 2 (2022), 67-77.'
+paperurl: https://doi.org/10.14434/josotl.v22i2.31308
 ---
 
 ### Abstract

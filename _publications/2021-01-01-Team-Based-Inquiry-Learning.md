@@ -5,6 +5,7 @@ permalink: /publication/2021-01-01-Team-Based-Inquiry-Learning
 date: 2021-01-01
 venue: 'PRIMUS'
 citation: '__D. Lewis__, S. Clontz, &amp; J. Estis, Team-Based Inquiry Learning. _PRIMUS_, no. 2 (2021), 223-238.'
+paperurl: https://doi.org/10.1080/10511970.2019.1666440
 ---
 
 ### Abstract

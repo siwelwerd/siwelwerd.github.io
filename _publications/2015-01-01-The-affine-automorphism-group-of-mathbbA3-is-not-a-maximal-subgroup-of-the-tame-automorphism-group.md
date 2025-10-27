@@ -5,6 +5,7 @@ permalink: /publication/2015-01-01-The-affine-automorphism-group-of-mathbbA3-is-
 date: 2015-01-01
 venue: 'Michigan Mathematics Journal'
 citation: 'E. Edo  &amp; __D. Lewis__, The affine automorphism group of $\mathbb{A}^3$ is not a maximal subgroup of the tame automorphism group, _Michigan Mathematics Journal_, 64(3) (2015), 555-568.'
+paperurl: https://doi.org/10.1307/mmj/1441116658
 ---
 
 ### Abstract

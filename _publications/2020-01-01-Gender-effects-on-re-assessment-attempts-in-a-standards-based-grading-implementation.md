@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-Gender-effects-on-re-assessment-attempts-in-a
 date: 2020-01-01
 venue: 'PRIMUS'
 citation: '__D. Lewis__, Gender effects on re-assessment attempts in a standards-based grading implementation. PRIMUS, 30, no. 5. (2020), 539-551.'
+paperurl: https://doi.org/10.1080/10511970.2019.1616636
 ---
 
 ### Abstract

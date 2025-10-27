@@ -12,6 +12,10 @@ Some recent and upcoming projects I am involved with:
 - [Alternative Grading Institute](https://www.centerforgradingreform.org/alternative-grading-institute/), December 17--18, 2025.  A two-day professional development offering for faculty interested in converting a course to alternative grading.
 - [The Grading Conference](https://thegradingconference.com/), June 16--18, 2026. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
 
+Recent publications:
+- Clontz, S. & __Lewis, D.__ (2025). Community-Based, Open Source, Continuous OER Authoring (COCOA): A Novel Model for Open Educational Resources, _Journal of Open Educational Resources in Higher Education_ 3(3), 273-290. [https://doi.org/10.31274/joerhe.20094](https://doi.org/10.31274/joerhe.20094)
+- Kostiuk, J., __Lewis, D.__, Borges, T., Brandt, M., Chang-Lee, M., Creech, C., Freedman, S., Griffith, S., & Hashimoto, S. (2025). Promoting students' sense-making in row reducing matrices. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2518531](https://doi.org/10.1080/10511970.2025.2518531)
+
 
 My work in the media:
 - [School Leaders Project podcast: What Leaders Need to Know About Standards-Based Grading](https://youtu.be/O_ysOYA4SE8?si=bfRWlhm0MHV2LYp8)

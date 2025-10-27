@@ -5,6 +5,7 @@ permalink: /publication/2021-01-01-Team-learning-in-a-technology-driven-era
 date: 2021-01-01
 venue: 'Perspectives on Digitally-Mediated Team Learning'
 citation: 'J. K. Takemoto, __D. Lewis__, C. W. Parrish, L. Coyne, &amp; C. M. Burns. Team learning in a technology-driven era. In L. O. Campbell, R. Hartshorne, and R. F. DeMara, editors, _Perspectives on Digitally-Mediated Team Learning_, (2021), 33-51. Springer International Publishing, Cham.'
+paperurl: https://doi.org/10.1007/978-3-030-77614-5_3
 ---
 
 ### Abstract

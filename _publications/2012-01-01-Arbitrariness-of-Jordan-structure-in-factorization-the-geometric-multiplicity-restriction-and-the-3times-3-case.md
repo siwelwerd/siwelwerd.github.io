@@ -5,6 +5,7 @@ permalink: /publication/2012-01-01-Arbitrariness-of-Jordan-structure-in-factoriz
 date: 2012-01-01
 venue: 'Asian-European Journal of Mathematics'
 citation: 'C. Johnson, **D. Lewis**,  &amp; Y. Zhang. Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the $3\times 3$ case. *Asian-European Journal of Mathematics*, 5, no. 2 (2012), 1250018.'
+paperurl: https://doi.org/10.1142/S1793557112500362
 ---
 
 ### Abstract

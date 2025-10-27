@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-Comparing-demographics-of-signatories-to-publ
 date: 2020-01-01
 venue: 'PloS one'
 citation: ' C. Topaz,  J. Cart,  C. Diaz Eaton,  A. Hanson Shrout,  J. Higdon,  K. Ince,  B. Katz,  __D. Lewis__,  J. Libertini, &amp;  C. Smith. Comparing demographics of signatories to public letters on diversity in the mathematical sciences. _PloS one_, 15, no. 4 (2020), e0232075.'
+paperurl: https://doi.org/10.1371/journal.pone.0232075
 ---
 
 ### Abstract
