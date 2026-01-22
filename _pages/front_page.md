@@ -12,7 +12,7 @@ Some recent and upcoming projects I am involved with:
 - [The Grading Conference](https://thegradingconference.com/), June 16--18, 2026. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
 
 Recent publications:
-- Katz, B., __Lewis, D.__, Bagley, S., Bockting-Conrad, S., Ho, A., Libertini, J., Pilgrim, M., Salomone, M., & Shilito, B. Humanizing Defining in Mathematics with Sandwiches. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2588751](https://doi.org/10.1080/10511970.2025.2588751)
+- Katz, B., __Lewis, D.__, Bagley, S., Bockting-Conrad, S., Ho, A., Libertini, J., Pilgrim, M., Salomone, M., & Shilito, B. (2026). Humanizing Defining in Mathematics with Sandwiches. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2588751](https://doi.org/10.1080/10511970.2025.2588751)
 - __Lewis, D.__, Roca, R., Marshall, S., Hibdon Jr., J., & Diaz Eaton, C. (2025). Key network disruptors: A structural analysis of the #DisruptJMM network influencers and actions. _Preprint_. [https://doi.org/10.31235/osf.io/fts4q_v1](https://doi.org/10.31235/osf.io/fts4q_v1)
 - Clontz, S. & __Lewis, D.__ (2025). Community-Based, Open Source, Continuous OER Authoring (COCOA): A Novel Model for Open Educational Resources, _Journal of Open Educational Resources in Higher Education_ 3(3), 273-290. [https://doi.org/10.31274/joerhe.20094](https://doi.org/10.31274/joerhe.20094)
 - Kostiuk, J., __Lewis, D.__, Borges, T., Brandt, M., Chang-Lee, M., Creech, C., Freedman, S., Griffith, S., & Hashimoto, S. (2025). Promoting students' sense-making in row reducing matrices. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2518531](https://doi.org/10.1080/10511970.2025.2518531)
