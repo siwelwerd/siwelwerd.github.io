@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-01-01-Sandwiches
 date: 2026-01-01
 venue: 'PRIMUS'
-citation: "Katz, B., __Lewis, D.__, Bagley, S., Bockting-Conrad, S., Ho, A., Libertini, J., Pilgrim, M., Salomone, M., & Shilito, B. (2025). Humanizing Defining in Mathematics with Sandwiches. _PRIMUS"
+citation: "Katz, B., __Lewis, D.__, Bagley, S., Bockting-Conrad, S., Ho, A., Libertini, J., Pilgrim, M., Salomone, M., & Shilito, B. (2025). Humanizing Defining in Mathematics with Sandwiches. _PRIMUS_"
 paperurl: https://doi.org/10.1080/10511970.2025.2588751
 ---
 

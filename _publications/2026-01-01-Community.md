@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-01-01-Community
 date: 2026-01-01
 venue: 'Preprint'
-citation: "Barreda II, A., Diaz Eaton, C., Hansen, S., Hibdon Jr., J. Gordon, L., Greenwald, R., Guti\'errez, M.J., Ince, K., Kelling, C., __Lewis, D.__, Mendible, A., Mercado, J., Piercy, V., Thompson, B. (2026). Community-driven data science practices. _Preprint"
+citation: "Barreda II, A., Diaz Eaton, C., Hansen, S., Hibdon Jr., J. Gordon, L., Greenwald, R., Gutiérrez Paz, M.J., Ince, K., Kelling, C., __Lewis, D.__, Mendible, A., Mercado, J., Piercy, V., Thompson, B. (2026). Community-driven data science practices. _Preprint_"
 paperurl: https://arxiv.org/pdf/2602.00356
 ---
 
