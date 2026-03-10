@@ -10,7 +10,7 @@ The Strategic Taskforce to Accelerate Mathematics Pathways (STAMP) is a group of
 
 <!--end-excerpt-->
 
-I currently serve on the leadership team of STAMP.
+I served on the leadership team of STAMP until 2022.
 
 [STAMP Website](https://stamp-al.org/)
 

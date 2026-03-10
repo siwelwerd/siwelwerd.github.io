@@ -10,7 +10,7 @@ The Data Analysis, Activism, Advocacy, and Applied Mathematics Network is a grou
 
 <!--end-excerpt-->
 
-I helped/will help co-organize several of the events below.
+I helped co-organize several of the events below.
 
 ##### Events
 
@@ -20,6 +20,8 @@ I helped/will help co-organize several of the events below.
 * [Data Science and Social Justice: Networks, Policy, and Education (Part II)](https://icerm.brown.edu/programs/ep-23-dssj/), ICERM, June 20 -- July 28, 2023
 * [From Impact Factor to Influence Factor: Data Science and Policy for Social Justice Workshop](https://icerm.brown.edu/programs/ep-23-dssj/w1/), ICERM, June 26 -- June 30, 2023
 * [Educating at the Intersection of Data Science and Social Justice Workshop](https://icerm.brown.edu/programs/ep-23-dssj/w2/), ICERM, July 17 -- July 21, 2023
+* [Impactful curriculum development in mathematics: open education resources for future research](https://aimath.org/pastworkshops/quantreasoning.html), AIM, July 21--25, 2025
+* [MetaMath: Modeling the mathematical sciences community using mathematics, statistics, and data science](https://aimath.org/workshops/upcoming/metamath/), AIM, December 8--12, 2025
 
 
 
