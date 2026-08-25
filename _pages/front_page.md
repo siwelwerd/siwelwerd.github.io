@@ -7,9 +7,7 @@ author_profile: true
 I work in mathematics education, education research and faculty development.  If you are interested in having me [speak or consult](consulting.html) please [get in touch](mailto:drew.lewis@gmail.com).
 
 Some recent and upcoming projects I am involved with:
-- [MetaMath: Modeling the mathematical sciences community using mathematics, statistics, and data science](https://aimath.org/workshops/upcoming/metamath/), December 8--12, 2025. A weeklong workshop at the [American Institute of Mathematics](https://aimath.org)
-- [Alternative Grading Institute](https://www.centerforgradingreform.org/alternative-grading-institute/), December 17--18, 2025.  A two-day professional development offering for faculty interested in converting a course to alternative grading.
-- [The Grading Conference](https://thegradingconference.com/), June 16--18, 2026. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
+- [The Grading Conference](https://thegradingconference.com/), June 15--17, 2027. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
 
 Recent publications:
 - Katz, B., __Lewis, D.__, Bagley, S., Bockting-Conrad, S., Ho, A., Libertini, J., Pilgrim, M., Salomone, M., & Shilito, B. (2026). Humanizing Defining in Mathematics with Sandwiches. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2588751](https://doi.org/10.1080/10511970.2025.2588751)
