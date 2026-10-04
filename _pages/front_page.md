@@ -10,11 +10,11 @@ Some recent and upcoming projects I am involved with:
 - [The Grading Conference](https://thegradingconference.com/), June 15--17, 2027. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
 
 Recent publications:
+- __Lewis, D.__ & Krinsky, S. (2026). Alternative Grading. In Pilgrim, M.E., Callahan, K.M., Carney, D., Kung, D., La Rose, P.G., Lindsey, M., Rasmussen, C., Speer, N., & Tesene, M (Eds.), _Project EMBER Evidence-Based Innovations for Student Success in Introductory Mathematics_. http://www.everylearnereverywhere.org/resources/project-ember-innovations-for-student-success
+- __Lewis, D.__ (2026) Leveraging alternative assessment for open education and open science. OCTOPUS - Open Science and Open Pedagogy Project, (Version 2.0). QUBES Educational Resources. [http://dx.doi.org/10.25334/6BP0-A649](http://dx.doi.org/10.25334/6BP0-A649)
 - Barreda, A., Diaz Eaton, C., Hansen, S., Hibdon Jr., J., Gordon, L., Greenwald, R., Gutierrez Paz, M.J., Ince, K., Kelling, C., __Lewis, D.__, Mendible, A., Mercado, J., Piercey, V., & Thompson, B. (2026). Community-driven data science practices. _La Matematica 5_, 61. [https://doi.org/10.1007/s44007-026-00224-x](https://doi.org/10.1007/s44007-026-00224-x)
 - Katz, B., __Lewis, D.__, Bagley, S., Bockting-Conrad, S., Ho, A., Libertini, J., Pilgrim, M., Salomone, M., & Shilito, B. (2026). Humanizing defining in mathematics with sandwiches. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2588751](https://doi.org/10.1080/10511970.2025.2588751)
 - __Lewis, D.__, Roca, R., Marshall, S., Hibdon Jr., J., & Diaz Eaton, C. (2025). Key network disruptors: A structural analysis of the #DisruptJMM network influencers and actions. _Preprint_. [https://doi.org/10.31235/osf.io/fts4q_v1](https://doi.org/10.31235/osf.io/fts4q_v1)
-- Clontz, S. & __Lewis, D.__ (2025). Community-Based, Open Source, Continuous OER Authoring (COCOA): A Novel Model for Open Educational Resources, _Journal of Open Educational Resources in Higher Education_ 3(3), 273-290. [https://doi.org/10.31274/joerhe.20094](https://doi.org/10.31274/joerhe.20094)
-- Kostiuk, J., __Lewis, D.__, Borges, T., Brandt, M., Chang-Lee, M., Creech, C., Freedman, S., Griffith, S., & Hashimoto, S. (2025). Promoting students' sense-making in row reducing matrices. _PRIMUS_. [https://doi.org/10.1080/10511970.2025.2518531](https://doi.org/10.1080/10511970.2025.2518531)
 
 
 My work in the media:
